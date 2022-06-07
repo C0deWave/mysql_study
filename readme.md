@@ -7,4 +7,4 @@
 
 #### [Mysql데이터를 백업 받고 AWS RDS로 이전하기](https://github.com/C0deWave/mysql_study/blob/master/study/Mysql%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EB%B0%B1%EC%97%85%20%EB%B0%9B%EA%B3%A0%20AWS%20RDS%EB%A1%9C%20%EC%9D%B4%EC%A0%84%ED%95%98%EA%B8%B0.md)
 
-#### [Mysql 스키마 명 변경하기]()
+#### [Mysql 스키마 명 변경하기](https://github.com/C0deWave/mysql_study/blob/master/study/Mysql%EC%8A%A4%ED%82%A4%EB%A7%88%EB%AA%85%20%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0.md)
